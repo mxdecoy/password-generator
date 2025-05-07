@@ -26,7 +26,7 @@ cd password-generator
 ```
 3. Run the script
 
-**Alternatively, click the green "Code" button on the GitHub page, then "Download ZIP" and extract it.**
+> Alternatively, click the green "Code" button on the GitHub page, then "Download ZIP" and extract it.
 
 ### Executing the program
 
