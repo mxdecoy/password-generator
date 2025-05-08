@@ -40,7 +40,7 @@ python pwgen.py
 
 You will then be prompted to enter the desired password length. For example:
 
-`How long should you password be? 15`
+`How long should your password be? 15`
 
 
 The script will generate and display a random password of the specified length.
