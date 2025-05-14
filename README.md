@@ -63,5 +63,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Inspiration and guidance from various online resources and Python documentation.
 
-**Wanna join me on my journey?**  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V41EMM37)
+## 💻 Try the App with GUI
+
+If you're looking for the version with a graphical interface, you can check it out on my Itch.io page:
+
+👉 [Download the GUI App on Itch.io](https://mx-z.itch.io)
+
+This helps support my work as an aspiring developer – thank you!
