@@ -62,11 +62,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Inspiration and guidance from various online resources and Python documentation.
-
-## 💻 Try the App with GUI
-
-If you're looking for the version with a graphical interface, you can check it out on my Itch.io page:
-
-👉 [Download the GUI App on Itch.io](https://mx-z.itch.io)
-
-This helps support my work as an aspiring developer – thank you!
